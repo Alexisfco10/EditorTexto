@@ -1,0 +1,17 @@
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\bin\Debug\net6.0-windows\EditorTexto.exe
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\bin\Debug\net6.0-windows\EditorTexto.deps.json
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\bin\Debug\net6.0-windows\EditorTexto.runtimeconfig.json
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\bin\Debug\net6.0-windows\EditorTexto.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\bin\Debug\net6.0-windows\EditorTexto.pdb
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.csproj.AssemblyReference.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.Form1.resources
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.csproj.GenerateResource.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.AssemblyInfo.cs
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\refint\EditorTexto.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.pdb
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\EditorTexto.genruntimeconfig.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\EditorTexto\EditorTexto\obj\Debug\net6.0-windows\ref\EditorTexto.dll
